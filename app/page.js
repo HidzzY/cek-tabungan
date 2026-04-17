@@ -19,9 +19,9 @@ export default function SavingsApp() {
   };
 
   const targets = [
-    { id: 1, name: 'Beli/Servis HP', icon: <Smartphone size={18}/>, goal: 1500000, color: 'bg-blue-600' },
-    { id: 2, name: 'Bayar WiFi', icon: <Wifi size={18}/>, goal: 50000, color: 'bg-purple-600' },
-    { id: 3, name: 'Dana Sekolah', icon: <BookOpen size={18}/>, goal: 100000, color: 'bg-emerald-600' },
+    { id: 1, name: 'Beli/Servis HP', icon: <Smartphone size={18}/>, goal: 2000000, color: 'bg-blue-600' },
+    { id: 2, name: 'Bayar WiFi', icon: <Wifi size={18}/>, goal: 150000, color: 'bg-purple-600' },
+    { id: 3, name: 'Dana Sekolah', icon: <BookOpen size={18}/>, goal: 1000000, color: 'bg-emerald-600' },
   ];
 
   return (
